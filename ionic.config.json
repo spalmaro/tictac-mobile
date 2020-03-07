@@ -1,0 +1,7 @@
+{
+  "name": "tictac-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
